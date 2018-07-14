@@ -1,3 +1,4 @@
+### Written by Bianca Tong and her friends in May 2018 ###
 """
 Simulation region:
 1000*1000
