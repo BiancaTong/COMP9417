@@ -1,3 +1,4 @@
+### Written by Bianca Tong and her friends in May 2018 ###
 from traffic_simulation import *
 #import matplotlib.pyplot as plt
 
